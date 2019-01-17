@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/cldszx2001/ShineUpdater/master/ServerExample/2.0/bin/Sample.ipa</string>
+					<string>http://172.23.17.15:8080/app/2.0/bin/Sample.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
