@@ -25,5 +25,15 @@
             <sparkle:minimumSystemVersion>10.3</sparkle:minimumSystemVersion>
             <shine:forcedUpdate />
         </item>
+        <item>
+            <title>Version 2.0</title>
+            <description><![CDATA[test]]></description>
+            <pubDate>Tue, 11 April 2019 10:01:11 -0600</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/cldszx2001/ShineUpdater/master/ServerExample/2.0/manifest.plist"
+                       sparkle:version="150"
+                       sparkle:shortVersionString="2.0" />
+            <sparkle:minimumSystemVersion>10.3</sparkle:minimumSystemVersion>
+            <shine:forcedUpdate />
+        </item>
     </channel>
 </rss>
