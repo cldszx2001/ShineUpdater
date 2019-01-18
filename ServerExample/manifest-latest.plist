@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/cldszx2001/ShineUpdater/master/ServerExample/icon57.png</string>
+					<string>http://172.23.17.15:8080/app/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/cldszx2001/ShineUpdater/master/ServerExample/icon512.png</string>
+					<string>http://172.23.17.15:8080/app/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
