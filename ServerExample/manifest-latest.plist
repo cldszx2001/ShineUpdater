@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cloud.aslead.Mattermost/string>
+				<string>cloud.aslead.Mattermost</string>
 				<key>bundle-version</key>
-				<string>1.13.0/string>
+				<string>1.13.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
