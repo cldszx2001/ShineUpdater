@@ -13,5 +13,16 @@
                        sparkle:shortVersionString="1.13.0" />
             <sparkle:minimumSystemVersion>10.3</sparkle:minimumSystemVersion>
         </item>
+        <item>
+            <title>Version 1.13.1</title>
+            <description><![CDATA[• Some great new feature
+• Another feature
+• A third awesome feature]]></description>
+            <pubDate>Tue, 11 April 2018 10:01:11 -0600</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/cldszx2001/ShineUpdater/master/app/1.13.1/manifest.plist"
+                       sparkle:version="150"
+                       sparkle:shortVersionString="1.13.1" />
+            <sparkle:minimumSystemVersion>10.3</sparkle:minimumSystemVersion>
+        </item>
     </channel>
 </rss>
