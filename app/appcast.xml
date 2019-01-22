@@ -23,6 +23,7 @@
                        sparkle:version="150"
                        sparkle:shortVersionString="1.13.1" />
             <sparkle:minimumSystemVersion>10.3</sparkle:minimumSystemVersion>
+            <shine:forcedUpdate />
         </item>
     </channel>
 </rss>
