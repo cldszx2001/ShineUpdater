@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.23.17.2:80/app/1.30.0/bin/Mattermost.ipa</string>
+					<string>http://172.23.17.15:8080/app/1.13.1/bin/Mattermost.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://172.23.17.2:80/app/icon57.png</string>
+					<string>http://172.23.17.15:8080/app/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://172.23.17.2:80/app/icon512.png</string>
+					<string>http://172.23.17.15:8080/app/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>cloud.aslead.Mattermost</string>
 				<key>bundle-version</key>
-				<string>1.30.0</string>
+				<string>1.13.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Mattermost</string>
+				<string>Mattermost 1.13.1</string>
 			</dict>
 		</dict>
 	</array>

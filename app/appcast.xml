@@ -8,9 +8,9 @@
             <title>Version 1.13.0</title>
             <description><![CDATA[• Initial release]]></description>
             <pubDate>Tue, 10 April 2018 10:01:11 -0600</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/cldszx2001/ShineUpdater/master/app/1.13.0/manifest.plist"
-                       sparkle:version="149"
-                       sparkle:shortVersionString="1.13.0" />
+            <enclosure url="https://raw.githubusercontent.com/cldszx2001/ShineUpdater/master/app/1.30.0/manifest.plist"
+                       sparkle:version="285"
+                       sparkle:shortVersionString="1.30.0" />
             <sparkle:minimumSystemVersion>10.3</sparkle:minimumSystemVersion>
         </item>
         <item>
